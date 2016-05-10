@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ITargetLength.cs" />
+    <Compile Include="SimpleTargetLength.cs" />
     <Compile Include="remesher.cs" />
     <Compile Include="remesherInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
